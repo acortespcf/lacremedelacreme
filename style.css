@@ -78,7 +78,7 @@ hr.underbar-green-light {
 
 /* HERO SECTION */
 #hero-section {
-  background: url("img/Mobile/fondo-1-mob.png") no-repeat center center;
+  background: url("img/bg/Mobile/fondo-1-mob.png") no-repeat center center;
   background-size: cover;
   padding: 260px 0;
   width: 100%;
@@ -99,7 +99,7 @@ hr.underbar-green-light {
 
 @media (min-width: 576px) {
   #hero-section {
-    background: url("img/Tablet/fondo-1-tab.png") no-repeat center center;
+    background: url("img/bg/Tablet/fondo-1-tab.png") no-repeat center center;
     background-size: cover;
     min-height: 140vh;
   }
@@ -112,7 +112,7 @@ hr.underbar-green-light {
 
 @media (min-width: 768px) {
   #hero-section {
-    background: url("img/Desktop/fondo-1-desk.png") no-repeat center center;
+    background: url("img/bg/Desktop/fondo-1-desk.png") no-repeat center center;
     min-height: 150vh;
     background-size: cover;
   }
@@ -124,7 +124,7 @@ hr.underbar-green-light {
 
 /* NOTEBOOK PRO*/
 #notebook-profesional {
-  background: url("img/Mobile/fondo-2-mob.png") no-repeat center center;
+  background: url("img/bg/Mobile/fondo-2-mob.png") no-repeat center center;
   background-size: cover;
   padding: 260px 0;
   width: 100%;
@@ -141,7 +141,7 @@ hr.underbar-green-light {
 
 @media (min-width: 576px) {
   #notebook-profesional {
-    background: url("img/Mobile/fondo-2-mob.png") no-repeat top center;
+    background: url("img/bg/Mobile/fondo-2-mob.png") no-repeat top center;
     background-size: cover;
     min-height: 100dvh;
   }
@@ -149,7 +149,7 @@ hr.underbar-green-light {
 
 @media (min-width: 768px) {
   #notebook-profesional {
-    background: url("img/Tablet/fondo-2-tab.png") no-repeat center center;
+    background: url("img/bg/Tablet/fondo-2-tab.png") no-repeat center center;
     background-size: contain;
     min-height: 80dvh;
   }
@@ -157,7 +157,7 @@ hr.underbar-green-light {
 
 @media (min-width: 992px) {
   #notebook-profesional {
-    background: url("img/Desktop/fondo-2-desk.png") no-repeat center center;
+    background: url("img/bg/Desktop/fondo-2-desk.png") no-repeat center center;
     background-size: cover;
     background-position: 50% 0;
     min-height: 100dvh;
@@ -167,7 +167,7 @@ hr.underbar-green-light {
 
 /* AI CHIP*/
 #ai-chip {
-  background: url("img/Mobile/fondo-3-mob.png") no-repeat top center;
+  background: url("img/bg/Mobile/fondo-3-mob.png") no-repeat top center;
   background-size: cover;
   padding: 260px 0;
   width: 100%;
@@ -178,7 +178,7 @@ hr.underbar-green-light {
 
 @media (min-width: 576px) {
   #ai-chip {
-    background: url("img/Mobile/fondo-3-mob.png") no-repeat top center;
+    background: url("img/bg/Mobile/fondo-3-mob.png") no-repeat top center;
     background-size: cover;
     min-height: 100dvh;
   }
@@ -189,7 +189,7 @@ hr.underbar-green-light {
 
 @media (min-width: 768px) {
   #ai-chip {
-    background: url("img/Tablet/fondo-3-tab.png") no-repeat top center;
+    background: url("img/bg/Tablet/fondo-3-tab.png") no-repeat top center;
     background-size: contain;
     min-height: 100dvh;
     background-position: 0 15%;
@@ -200,7 +200,7 @@ hr.underbar-green-light {
 }
 @media (min-width: 992px) {
   #ai-chip {
-    background: url("img/Desktop/fondo-3-desk.png") no-repeat top center;
+    background: url("img/bg/Desktop/fondo-3-desk.png") no-repeat top center;
     background-size: cover;
     min-height: 100dvh;
   }
@@ -211,7 +211,7 @@ hr.underbar-green-light {
 
 /* AMD - INTEL*/
 #intel-amd {
-  background: url("img/Desktop/fondo-4-desk.png") no-repeat top center;
+  background: url("img/bg/Desktop/fondo-4-desk.png") no-repeat top center;
   background-size: cover;
   padding: 260px 0;
   width: 100%;
