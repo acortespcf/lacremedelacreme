@@ -1,7 +1,10 @@
 Signika Variable Font
 =====================
 
+<<<<<<< HEAD
+=======
 
+>>>>>>> main
 This download contains Signika as both a variable font and static fonts.
 
 Signika is a variable font with these axes:
