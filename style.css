@@ -57,11 +57,13 @@
 
 .border-left-green {
   border-left: solid #43D87E 1px;
+
 }
 
 #hero-section {
   background: url("img/Mobile/fondo-1-mob.png") no-repeat center center;
   background-size: cover;
+  background-position: bottom;
   padding: 260px 0;
   width: 100%;
   height: 100%;
@@ -70,7 +72,7 @@
 }
 
 #notebook-profesional {
-  background: url("img/Mobile/fondo-2-mob.png") no-repeat center center;
+  background: url("img/Mobile/fondo-2-mob.png") no-repeat top center;
   background-size: cover;
   padding: 260px 0;
   width: 100%;
